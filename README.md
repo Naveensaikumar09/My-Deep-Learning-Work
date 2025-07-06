@@ -44,5 +44,5 @@ This repository contains a curated collection of deep learning experiments and m
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/My_Deep_Learning_Works.git
+git clone https://github.com/Naveensaikumar09/My_Deep_Learning_Works.git
 cd My_Deep_Learning_Works
